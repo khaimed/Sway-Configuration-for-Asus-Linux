@@ -1,0 +1,131 @@
+[/]
+alttab-minimized-aware=false
+alttab-switcher-delay=100
+alttab-switcher-enforce-primary-monitor=false
+alttab-switcher-show-all-workspaces=false
+alttab-switcher-style='icons+thumbnails'
+desklet-snap-interval=25
+enabled-applets=['panel1:left:2:grouped-window-list@cinnamon.org:2', 'panel1:right:27:keyboard@cinnamon.org:3', 'panel1:right:24:xapp-status@cinnamon.org:5', 'panel1:right:35:notifications@cinnamon.org:6', 'panel1:right:28:printers@cinnamon.org:7', 'panel1:right:29:removable-drives@cinnamon.org:8', 'panel1:right:32:power@cinnamon.org:10', 'panel1:right:34:calendar@cinnamon.org:11', 'panel1:right:26:systray@cinnamon.org:24', 'panel1:right:25:qredshift@quintao:39', 'panel1:right:31:sound@cinnamon.org:40', 'panel1:right:30:network@cinnamon.org:49', 'panel1:right:36:cornerbar@cinnamon.org:55', 'panel1:left:0:Cinnamenu@json:77', 'panel1:left:1:placesCenter@scollins:78']
+enabled-desklets=@as []
+enabled-extensions=@as []
+hotcorner-layout=['expo:false:0', 'scale:false:0', 'scale:false:0', 'desktop:false:0']
+next-applet-id=79
+no-adjacent-panel-barriers=false
+panel-edit-mode=false
+panel-launchers=['DEPRECATED']
+panel-zone-icon-sizes='[{"panelId": 1, "left": 16, "center": -1, "right": 16}]'
+panel-zone-symbolic-icon-sizes='[{"panelId": 1, "left": 28, "center": 28, "right": 16}]'
+panels-autohide=['1:false']
+panels-height=['1:26']
+window-effect-speed=1
+workspace-expo-view-as-grid=true
+workspace-osd-visible=true
+
+[cinnamon-session]
+quit-time-delay=60
+
+[desktop/a11y/applications]
+screen-keyboard-enabled=true
+screen-reader-enabled=false
+
+[desktop/a11y/mouse]
+dwell-click-enabled=false
+dwell-threshold=10
+dwell-time=1.2
+secondary-click-enabled=false
+secondary-click-time=1.2
+
+[desktop/applications/calculator]
+exec='kalk'
+
+[desktop/applications/terminal]
+exec='gnome-terminal'
+exec-arg='--'
+
+[desktop/background]
+picture-uri='file:///home/khaimed/Pictures/Wallpaper/AOT_wallpaper.jpg'
+
+[desktop/background/slideshow]
+delay=15
+image-source='directory:///home/khaimed/Pictures/Wallpaper'
+
+[desktop/interface]
+cursor-blink-time=1200
+cursor-theme='Adwaita'
+gtk-theme='Mint-Y-Dark-Aqua'
+icon-theme='Mint-Y-Aqua'
+text-scaling-factor=1.0
+toolkit-accessibility=true
+
+[desktop/keybindings/wm]
+move-to-workspace-new=@as []
+switch-to-workspace-1=@as []
+switch-to-workspace-10=@as []
+switch-to-workspace-11=@as []
+switch-to-workspace-12=@as []
+switch-to-workspace-2=@as []
+switch-to-workspace-3=@as []
+switch-to-workspace-4=@as []
+switch-to-workspace-5=@as []
+switch-to-workspace-6=@as []
+switch-to-workspace-7=@as []
+switch-to-workspace-8=@as []
+switch-to-workspace-9=@as []
+
+[desktop/media-handling]
+autorun-never=false
+autorun-x-content-ignore=@as []
+autorun-x-content-open-folder=@as []
+autorun-x-content-start-app=['x-content/unix-software']
+
+[desktop/notifications]
+bottom-notifications=true
+notification-duration=4
+
+[desktop/peripherals/keyboard]
+delay=uint32 500
+numlock-state=false
+repeat-interval=uint32 30
+
+[desktop/privacy]
+recent-files-max-age=7
+remember-recent-files=true
+
+[desktop/sound]
+event-sounds=false
+
+[desktop/wm/preferences]
+button-layout=':minimize,maximize,close'
+min-window-opacity=30
+mouse-button-modifier='<Super>'
+num-workspaces=6
+
+[gestures]
+pinch-percent-threshold=uint32 40
+swipe-percent-threshold=uint32 60
+
+[launcher]
+check-frequency=300
+memory-limit=2048
+
+[muffin]
+draggable-border-width=10
+placement-mode='automatic'
+tile-maximize=false
+unredirect-fullscreen-windows=false
+workspace-cycle=false
+workspaces-only-on-primary=false
+
+[settings-daemon/peripherals/keyboard]
+numlock-state='off'
+
+[settings-daemon/plugins/power]
+lid-close-ac-action='suspend'
+lid-close-battery-action='suspend'
+sleep-display-ac=1800
+sleep-display-battery=1800
+sleep-inactive-ac-timeout=0
+sleep-inactive-battery-timeout=0
+
+[theme]
+name='Mint-Y-Dark-Aqua'
