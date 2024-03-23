@@ -1,4 +1,4 @@
-# Project Sway ASUS Linux Configuration
+# Project Sway Configuration for ASUS Linux
 
 Welcome to my Sway ASUS Linux Configuration! 🐧 As an enthusiast of Linux, particularly on the ASUS Linux laptop, I've meticulously crafted this setup to harness the power of the Sway tiling window manager. With a focus on seamless integration and productivity, this configuration is tailored for an optimal experience on the ASUS Linux.
 
