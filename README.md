@@ -8,4 +8,6 @@ Welcome to my Sway ASUS Linux Configuration! 🐧 As an enthusiast of Linux, par
 - **Package Harmony:** Utilizing a carefully curated selection of packages for consistent performance and ease of maintenance.
 - **Customized Workflow:** Fine-tuned settings to align with my personal workflow, providing an ideal environment for coding, productivity tasks, and more.
 
+If you're interested in configuring your ASUS laptop for Linux, visit [ASUS-Linux.org](https://asus-linux.org/guides/) for helpful resources and guides.
+
 Feel free to dive in, customize to your liking, and share your feedback. Happy Swaying on the ASUS Linux! 🌐💻
